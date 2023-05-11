@@ -1,0 +1,51 @@
+<!-- <div class="d_flex j_content">
+      <div class="bg_clr d_flex align-center j_content box">signup</div>
+    </div> -->
+
+/* .bg_clr { background-color: beige; } .vh-100 { height: 100vh; } .d_flex {
+display: flex; } .align-center { align-items: center; } .j_content {
+justify-content: center; } .box { height: 21px; width: 78px; border: 2px solid
+black; } .gap { gap: 10px; } */
+
+<!-- <div class="container mt">
+  <form action="" method="post">
+    <h2>Sign Up</h2>
+    <div>
+      <div class="input-box mt-16">
+        <input type="text" placeholder="First Name" name="name" class="pad" />
+        <input type="text" placeholder="Last Name" name="name" class="pad" />
+      </div>
+
+      <div class="input-box mt-16">
+        <input
+          type="text"
+          placeholder="Email address"
+          name="Email"
+          class="widh pad"
+        />
+      </div>
+
+      <div class="input-box mt-16">
+        <input type="text" placeholder="Password" name="Password" class="pad" />
+        <input
+          type="text"
+          placeholder="Confirm Password"
+          name="Password"
+          class="pad"
+        />
+      </div>
+
+      <div class="input-box mt-16">
+        <textarea
+          name=""
+          id=""
+          cols="43"
+          rows="7"
+          placeholder="About"
+          class="pad widh resize"
+        ></textarea>
+      </div>
+    </div>
+  </form>
+</div>
+<div class="btn mt-16 mt">Sign Up</div>  -->
