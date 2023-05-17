@@ -82,10 +82,13 @@
 .btn {
   padding: 10px 24px;
   gap: 10px;
-  width: 375px;
+  width: 534px;px;
   height: 40px;
   background: #2c49fe;
   border-radius: 50px;
+}
+.fc_white{
+  color: white;
 }
 .mt-16 {
   margin-top: 16px;
@@ -141,7 +144,7 @@
   color: #01c8ff;
 }
 .text-clr-blue {
-  background: #2d3cae;
+  color: #2d3cae;
 }
 .text3-clr {
   color: #ffffff;
@@ -149,6 +152,12 @@
 }
 .margin {
   margin-left: 15px;
+}
+.margin-top-80 {
+  margin-top: 80px;
+}
+.margin-top-100 {
+  margin-top: 100px;
 }
 .text4-clr {
   color: #ffffff;
@@ -423,4 +432,11 @@
 }
 .pad-t {
   padding-top: 10px;
+}
+.border:hover{
+  background-color: #2c49fe;
+}
+.border:hover p,
+.border:hover h3{
+  color: #ffffff;
 }
