@@ -375,8 +375,8 @@
 }
 
 .margin-l-r {
-  margin-left: 165px;
-  margin-right: 200px;
+  margin-left: 152px;
+    margin-right: 210px;
 }
 .margin-l-r1 {
   margin-left: 25px;
@@ -412,7 +412,10 @@
 .gap-20 {
   gap: 20px;
 }
-.margin-top-35 {
+.margin-top-29 {
+  margin-top: 29px;
+}
+.margin-top-35{
   margin-top: 35px;
 }
 .margin-t {
