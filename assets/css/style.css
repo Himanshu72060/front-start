@@ -338,7 +338,7 @@
 .btn4 {
   padding: 30px 64px;
   gap: 10px;
-  width: 1000px;
+  width: 925px;
   height: 121px;
   background: #2c49fe 74%;
   border-radius: 100px;
@@ -423,6 +423,9 @@
 }
 .gap-50 {
   gap: 50px;
+}
+.gap-33{
+  gap: 33px;
 }
 .gap-65{
   gap: 65px;
